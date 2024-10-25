@@ -15,6 +15,9 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 *Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
+
+![Diagrama de Classes do Exercício Acima](URL-da-imagem)
+
 ### 📋 Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
@@ -45,3 +48,4 @@ Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Ma
 ## 📌 Versão
 
 * **Eclipse Installer 2024-09 R
+  
