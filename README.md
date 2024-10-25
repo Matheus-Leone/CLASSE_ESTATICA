@@ -16,8 +16,9 @@ Esta atividade é requisito da Avaliação Continuada 2
 *Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
 
-![Diagrama de Classes do Exercício Acima](![BibliotecadeConversões drawio](https://github.com/user-attachments/assets/ca562f25-0a2c-4865-8292-a4d88565258b)
-)
+![Diagrama de Classes do Exercício Acima]
+
+([BibliotecadeConversões drawio](https://github.com/user-attachments/assets/ca562f25-0a2c-4865-8292-a4d88565258b))
 
 ### 📋 Pré-requisitos
 
